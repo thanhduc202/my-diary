@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDiary_2", "MyDiary_2\MyDiary_2.csproj", "{AC0E22A6-6A84-4E80-A382-658F24A5A1C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDiaryWeb", "MyDiaryWeb\MyDiaryWeb.csproj", "{CA406D12-320C-48E1-BDAA-66A3DA633418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0E22A6-6A84-4E80-A382-658F24A5A1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0E22A6-6A84-4E80-A382-658F24A5A1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0E22A6-6A84-4E80-A382-658F24A5A1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0E22A6-6A84-4E80-A382-658F24A5A1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA406D12-320C-48E1-BDAA-66A3DA633418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA406D12-320C-48E1-BDAA-66A3DA633418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA406D12-320C-48E1-BDAA-66A3DA633418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA406D12-320C-48E1-BDAA-66A3DA633418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA0C5A5-E6FF-470C-B497-7D3441DA10B7}
+	EndGlobalSection
+EndGlobal
